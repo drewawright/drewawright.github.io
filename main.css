@@ -199,21 +199,14 @@ form {
     margin-bottom: 1rem;
 }
 
-.submit{
+.submitbtn{
+    border: none;
     background-color: #add695;
     border-radius: 3px;
     color: rgba(0, 0, 0, 0.5);
     text-align: center;
-}
-
-.submitbtn{
-    border: none;
-    background-color: #add695;
     width: 100%;
-}
-
-.submit:hover{
-    background-color: #7A9969;
+    padding: .3em;
 }
 
 .submitbtn:hover{
