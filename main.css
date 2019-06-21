@@ -204,9 +204,20 @@ form {
 .submit{
     background-color: #add695;
     border-radius: 3px;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+
+.submitbtn{
+    border: none;
+    background-color: #add695;
 }
 
 .submit:hover{
+    background-color: #7A9969;
+}
+
+.submitbtn:hover{
     background-color: #7A9969;
 }
 
