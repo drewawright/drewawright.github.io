@@ -50,8 +50,6 @@ h1{
 
 .navcontainer {
     background-color: #add695;
-    position: sticky;
-    top: 0;
     z-index: 50;
     font-family: 'Dosis', sans-serif;
 }
@@ -211,6 +209,7 @@ form {
 .submitbtn{
     border: none;
     background-color: #add695;
+    width: 100%;
 }
 
 .submit:hover{
