@@ -102,6 +102,7 @@ hr {
 
 .selfimage{
     width: auto;
+    max-height: 350px;
 }
 
 .imagecontainer {
